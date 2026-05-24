@@ -1,0 +1,9 @@
+[2025-12-05 08:13:40] ERROR: There is An Error
+[2025-12-05 10:07:32] ERROR: There is An Error
+[2025-12-05 10:08:00] ERROR: There is An Error
+[2025-12-13 10:42:12] ERROR: Error in Admin/DeleteCustomer: The DELETE statement conflicted with the REFERENCE constraint "FK_Orders_AspNetUsers_CustomerId". The conflict occurred in database "Trendora_DB", table "dbo.Orders", column 'CustomerId'.
+The statement has been terminated.
+[2025-12-22 08:44:07] ERROR: Error in Admin/Index: Incorrect syntax near '&'.
+[2025-12-28 07:18:44] ERROR: Error in Admin/DeleteProduct: Cannot delete product that exists in orders.
+[2025-12-28 07:18:58] ERROR: Error in Admin/DeleteProduct: Cannot delete product that exists in orders.
+[2025-12-28 07:19:56] ERROR: Error in Admin/DeleteProduct: Cannot delete product that exists in orders.

@@ -1,0 +1,83 @@
+  .navbar-brand {
+            font-weight: bold;
+            font-size: 1.8rem;
+        } .footer-links a {
+            text-decoration: none;
+            color: #6c757d;
+        }
+        .footer-links a:hover {
+            color: #000;
+        }
+        .rating {
+            color: #ffc107;
+        }
+        .newsletter-section {
+            background-color: #fff;
+            padding: 60px 0;
+        }
+        .footer-section {
+            background-color: #1a1a1a;
+            color: #fff;
+            padding: 50px 0 20px;
+        }
+        .footer-heading {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #fff;
+        }
+        .footer-links {
+            list-style: none;
+            padding: 0;
+        }
+        .footer-links li {
+            margin-bottom: 10px;
+        }
+        .footer-links a {
+            color: #aaa;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .footer-links a:hover {
+            color: #fff;
+        }
+
+body {
+    background-color: #f7f8fa;
+}
+
+.checkout-container {
+    margin-top: 50px;
+}
+
+.order-summary {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+    .order-summary h5 {
+        margin-bottom: 15px;
+    }
+
+.product-item {
+    border-bottom: 1px solid #e3e3e3;
+    padding: 10px 0;
+}
+
+    .product-item:last-child {
+        border-bottom: none;
+    }
+
+.btn-place {
+    width: 100%;
+    background-color: #212121;
+    color: white;
+    border-radius: 5px;
+    padding: 12px;
+}
+
+    .btn-place:hover {
+        background-color: #111;
+    }

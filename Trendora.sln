@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trendora", "Trendora\Trendora.csproj", "{97D19BE8-E6EC-47C9-BA43-966115EAF5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97D19BE8-E6EC-47C9-BA43-966115EAF5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D19BE8-E6EC-47C9-BA43-966115EAF5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D19BE8-E6EC-47C9-BA43-966115EAF5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D19BE8-E6EC-47C9-BA43-966115EAF5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45234784-1969-46A5-829B-7ABEEDFDC9CF}
+	EndGlobalSection
+EndGlobal
