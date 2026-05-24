@@ -42,8 +42,5 @@ Follow these steps to get a local copy of Trendora up and running.
 * [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) (Express or Developer edition)
 * An IDE like Visual Studio 2022, VS Code, or JetBrains Rider
 
-### Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
   
